@@ -1,19 +1,13 @@
-### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ch&show_icons=true&theme=radical)
-<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChandrashekharBrahme)](https://github.com/anuraghazra/github-readme-stats)
+###  👋 Hi , I'm Chandrashekhar !
+<hr>
+
+👯 I’m looking to collaborate on Python projects <br>🌱 I’m currently learning Python development and AIML <br>💬 You can reach me :-chandrashekharbrahme@gmail.com
 
 
-<!--
-**ChandrashekharBrahme/ChandrashekharBrahme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chandrashekharbrahme) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
